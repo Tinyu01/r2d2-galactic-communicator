@@ -1,0 +1,17 @@
+[
+  {
+    "text": "SOS",
+    "morse": "... --- ...",
+    "description": "Rebel distress signal"
+  },
+  {
+    "text": "MAYTHEFORCE",
+    "morse": "-- .- -.-- - .... . ..-. --- .-. -.-. .",
+    "description": "Jedi blessing"
+  },
+  {
+    "text": "HELP ME OBI-WAN",
+    "morse": ".... . .-.. .--. / -- . / --- -... .. .-.. .- -.",
+    "description": "Leia's distress call"
+  }
+]
