@@ -32,7 +32,7 @@ poetry shell
 ### 4. Verify Installation
 
 ```bash
-morse-cli --help
+poetry run morse-cli --help
 ```
 
 **Expected output:**
@@ -52,3 +52,7 @@ morse-cli --help
 ---
 
 *May the Force be with you!*
+
+{
+  "python.poetryPath": "$env:USERPROFILE\\.local\\bin\\poetry"
+}
